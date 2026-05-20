@@ -1,0 +1,23 @@
+# Secrets / credentials
+agent/auth.json
+**/*token*
+**/*secret*
+**/*.pem
+**/*.key
+.env
+.env.*
+
+# Runtime state
+agent/sessions/
+/todos/
+/.pi/
+
+# Installed packages / generated files
+agent/npm/node_modules/
+agent/bin/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

@@ -1,0 +1,19 @@
+{
+  "lastChangelogVersion": "0.75.4",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.5",
+  "defaultThinkingLevel": "medium",
+  "theme": "tokyonight-moon",
+  "terminal": {
+    "showTerminalProgress": true
+  },
+  "showHardwareCursor": false,
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-interview",
+    "npm:@juanibiapina/pi-tokyonight",
+    "npm:@plannotator/pi-extension",
+    "npm:@narumitw/pi-codex-usage"
+  ],
+  "hideThinkingBlock": true
+}
