@@ -3,9 +3,10 @@
   "private": true,
   "dependencies": {
     "@juanibiapina/pi-tokyonight": "^1.0.1",
-    "@narumitw/pi-codex-usage": "^0.1.29",
+    "@narumitw/pi-codex-usage": "^0.1.30",
     "@plannotator/pi-extension": "^0.19.21",
     "pi-interview": "^0.8.7",
+    "pi-skill-toggle": "^1.0.2",
     "pi-web-access": "^0.10.7"
   }
 }
