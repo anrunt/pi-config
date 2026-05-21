@@ -13,7 +13,6 @@
     "npm:pi-interview",
     "npm:@juanibiapina/pi-tokyonight",
     "npm:@plannotator/pi-extension",
-    "npm:@narumitw/pi-codex-usage",
     "npm:pi-skill-toggle"
   ],
   "hideThinkingBlock": true
