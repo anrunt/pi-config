@@ -1,8 +1,8 @@
 {
-  "lastChangelogVersion": "0.75.4",
+  "lastChangelogVersion": "0.76.0",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.5",
-  "defaultThinkingLevel": "medium",
+  "defaultThinkingLevel": "high",
   "theme": "tokyonight-moon",
   "terminal": {
     "showTerminalProgress": true
@@ -13,7 +13,13 @@
     "npm:pi-interview",
     "npm:@juanibiapina/pi-tokyonight",
     "npm:@plannotator/pi-extension",
-    "npm:pi-skill-toggle"
+    "npm:pi-skill-toggle",
+    "npm:@calesennett/pi-codex-usage"
   ],
-  "hideThinkingBlock": true
+  "hideThinkingBlock": false,
+  "editorPaddingX": 0,
+  "pi-codex-usage": {
+    "usageMode": "left",
+    "refreshWindow": "5h"
+  }
 }
