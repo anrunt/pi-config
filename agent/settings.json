@@ -14,7 +14,8 @@
     "npm:@juanibiapina/pi-tokyonight",
     "npm:@plannotator/pi-extension",
     "npm:pi-skill-toggle",
-    "npm:@calesennett/pi-codex-usage"
+    "npm:@calesennett/pi-codex-usage",
+    "npm:pi-mcp-extension"
   ],
   "hideThinkingBlock": false,
   "editorPaddingX": 0,
