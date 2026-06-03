@@ -4,7 +4,7 @@
   "dependencies": {
     "@calesennett/pi-codex-usage": "^0.1.12",
     "@juanibiapina/pi-tokyonight": "^1.0.1",
-    "@plannotator/pi-extension": "^0.19.26",
+    "@plannotator/pi-extension": "^0.19.27",
     "pi-interview": "^0.8.7",
     "pi-mcp-extension": "^1.5.0",
     "pi-skill-toggle": "^1.0.2",
