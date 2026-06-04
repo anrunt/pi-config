@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "onlyWhenInteractive": true,
+  "title": "Pi",
+  "body": "Agent skończył pracę",
+  "channels": {
+    "terminal": true,
+    "desktop": false,
+    "bell": false,
+    "sound": false
+  },
+  "terminal": {
+    "backend": "auto"
+  },
+  "desktop": {
+    "backend": "linux"
+  },
+  "sound": {
+    "backend": "linux",
+    "linuxSoundId": "complete",
+    "command": ""
+  }
+}

@@ -15,7 +15,8 @@
     "npm:@plannotator/pi-extension",
     "npm:pi-skill-toggle",
     "npm:@calesennett/pi-codex-usage",
-    "npm:pi-mcp-extension"
+    "npm:pi-mcp-extension",
+    "npm:@diegopetrucci/pi-notify"
   ],
   "hideThinkingBlock": false,
   "editorPaddingX": 0,
