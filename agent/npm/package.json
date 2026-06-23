@@ -3,9 +3,9 @@
   "private": true,
   "dependencies": {
     "@calesennett/pi-codex-usage": "^0.1.12",
-    "@diegopetrucci/pi-notify": "^0.1.5",
+    "@diegopetrucci/pi-notify": "^0.1.7",
     "@juanibiapina/pi-tokyonight": "^1.0.1",
-    "@plannotator/pi-extension": "^0.21.0",
+    "@plannotator/pi-extension": "^0.21.1",
     "pi-interview": "^0.8.7",
     "pi-mcp-extension": "^1.5.0",
     "pi-skill-toggle": "^1.0.2",
