@@ -9,6 +9,6 @@
     "pi-interview": "^0.8.7",
     "pi-mcp-extension": "^1.5.0",
     "pi-skill-toggle": "^1.0.2",
-    "pi-web-access": "^0.10.7"
+    "pi-web-access": "^0.12.0"
   }
 }
