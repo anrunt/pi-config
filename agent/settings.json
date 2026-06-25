@@ -24,13 +24,5 @@
     "usageMode": "left",
     "refreshWindow": "5h"
   },
-  "skills": [
-    "-skills/avoid-unnecessary-useffect",
-    "-skills/caveman",
-    "-skills/grill-me",
-    "-skills/grill-with-docs",
-    "-skills/improve-codebase-architecture",
-    "-/home/anrunt/.claude/skills/react-doctor",
-    "-skills/write-a-skill"
-  ]
+  "skills": []
 }
