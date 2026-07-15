@@ -17,7 +17,7 @@
       "sessionId": "019efb5d-7f26-7882-ac80-084c8ecf3e62",
       "cwd": "/home/anrunt/Documents/CODING/portfolio-tracker",
       "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-portfolio-tracker--/2026-06-24T20-41-09-158Z_019efb5d-7f26-7882-ac80-084c8ecf3e62.jsonl",
-      "updatedAt": "2026-07-05T21:22:09.414Z"
+      "updatedAt": "2026-07-14T20:45:56.540Z"
     },
     "019f3428-88c8-7a59-938b-96ea2e1aa73b": {
       "sessionId": "019f3428-88c8-7a59-938b-96ea2e1aa73b",
@@ -71,7 +71,37 @@
       "sessionId": "019f4d15-1459-7a5e-8b2e-6e283698a359",
       "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
       "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-10T17-30-54-937Z_019f4d15-1459-7a5e-8b2e-6e283698a359.jsonl",
-      "updatedAt": "2026-07-11T15:54:48.758Z"
+      "updatedAt": "2026-07-13T19:33:03.055Z"
+    },
+    "019f5241-3e84-7369-a857-139b42b8f373": {
+      "sessionId": "019f5241-3e84-7369-a857-139b42b8f373",
+      "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
+      "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-11T17-37-15-396Z_019f5241-3e84-7369-a857-139b42b8f373.jsonl",
+      "updatedAt": "2026-07-13T19:30:51.759Z"
+    },
+    "019f5cf6-904a-78ea-9c74-612bde948509": {
+      "sessionId": "019f5cf6-904a-78ea-9c74-612bde948509",
+      "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
+      "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-13T19-31-30-506Z_019f5cf6-904a-78ea-9c74-612bde948509.jsonl",
+      "updatedAt": "2026-07-14T19:01:15.236Z"
+    },
+    "019f6225-b284-794f-b3ec-430ecc95ef55": {
+      "sessionId": "019f6225-b284-794f-b3ec-430ecc95ef55",
+      "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
+      "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-14T19-41-05-540Z_019f6225-b284-794f-b3ec-430ecc95ef55.jsonl",
+      "updatedAt": "2026-07-14T20:27:57.093Z"
+    },
+    "019f6260-da87-7a08-8cf0-3b5eecf209bb": {
+      "sessionId": "019f6260-da87-7a08-8cf0-3b5eecf209bb",
+      "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
+      "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-14T20-45-42-407Z_019f6260-da87-7a08-8cf0-3b5eecf209bb.jsonl",
+      "updatedAt": "2026-07-15T17:59:56.239Z"
+    },
+    "019f670e-3ad7-7668-9bf4-75a04bdc5997": {
+      "sessionId": "019f670e-3ad7-7668-9bf4-75a04bdc5997",
+      "cwd": "/home/anrunt/Documents/CODING/herdr-pi-reloader",
+      "sessionFile": "/home/anrunt/.pi/agent/sessions/--home-anrunt-Documents-CODING-herdr-pi-reloader--/2026-07-15T18-33-33-655Z_019f670e-3ad7-7668-9bf4-75a04bdc5997.jsonl",
+      "updatedAt": "2026-07-15T18:33:35.728Z"
     }
   }
 }
