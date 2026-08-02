@@ -5,10 +5,10 @@
     "@calesennett/pi-codex-usage": "^0.1.13",
     "@diegopetrucci/pi-notify": "^0.1.14",
     "@juanibiapina/pi-tokyonight": "^1.1.0",
-    "@plannotator/pi-extension": "^0.25.0",
-    "pi-interview": "^0.9.0",
+    "@plannotator/pi-extension": "^0.25.1",
+    "pi-interview": "^0.9.1",
     "pi-mcp-extension": "^1.5.0",
     "pi-skill-toggle": "^1.0.2",
-    "pi-web-access": "^0.15.0"
+    "pi-web-access": "^0.17.1"
   }
 }
