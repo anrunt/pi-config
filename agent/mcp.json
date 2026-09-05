@@ -3,7 +3,7 @@
     "svelte": {
       "transport": "streamable-http",
       "url": "https://mcp.svelte.dev/mcp",
-      "lifecycle": "eager"
+      "lifecycle": "lazy"
     }
   }
 }

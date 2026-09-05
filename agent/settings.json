@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.83.0",
+  "lastChangelogVersion": "0.85.1",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-5.6-sol",
   "defaultThinkingLevel": "high",
@@ -16,12 +16,18 @@
     "npm:pi-skill-toggle",
     "npm:@calesennett/pi-codex-usage",
     "npm:pi-mcp-extension",
-    "npm:@diegopetrucci/pi-notify"
+    "npm:@diegopetrucci/pi-notify",
+    "git:github.com/jillesme/pi-nvim-review"
   ],
   "hideThinkingBlock": false,
   "editorPaddingX": 0,
   "pi-codex-usage": {
     "usageMode": "left",
     "refreshWindow": "5h"
+  },
+  "tuiMode": "fullscreen",
+  "fullscreenScrollbar": "always",
+  "modelThinkingLevels": {
+    "openai-codex/gpt-6-astra": "medium"
   }
 }
