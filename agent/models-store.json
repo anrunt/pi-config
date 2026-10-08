@@ -394,11 +394,66 @@
           }
         },
         "type": "chat"
+      },
+      {
+        "id": "gpt-6.1-sol",
+        "name": "GPT-6.1 Sol",
+        "api": "openai-codex-responses",
+        "provider": "openai-codex",
+        "baseUrl": "https://chatgpt.com/backend-api",
+        "reasoning": true,
+        "input": [
+          "text",
+          "image"
+        ],
+        "cost": {
+          "input": 2,
+          "output": 10,
+          "cacheRead": 0.1,
+          "cacheWrite": 2.5,
+          "tiers": [
+            {
+              "inputTokensAbove": 272000,
+              "input": 4,
+              "output": 15,
+              "cacheRead": 0.2,
+              "cacheWrite": 5
+            }
+          ]
+        },
+        "contextWindow": 272000,
+        "maxTokens": 128000,
+        "thinkingLevelMap": {
+          "off": null,
+          "minimal": "low",
+          "low": "low",
+          "medium": "medium",
+          "high": "high",
+          "xhigh": "xhigh",
+          "max": "max"
+        },
+        "compat": {
+          "supportsOpenAIGrammarTools": true,
+          "supportsAdditionalTools": true,
+          "supportsToolSearch": true,
+          "supportsMidConvoSystemMessages": true
+        },
+        "inputLimits": {
+          "images": {
+            "resize": {
+              "maxWidth": 2000,
+              "maxHeight": 2000,
+              "maxBytes": 4718592,
+              "jpegQuality": 80
+            }
+          }
+        },
+        "type": "chat"
       }
     ],
-    "checkedAt": 1790545406562,
-    "lastModified": 1790239075000,
-    "etag": "W/\"33d4f9db141f788989850e1ac9cf899e\""
+    "checkedAt": 1791468025832,
+    "lastModified": 1790763472000,
+    "etag": "W/\"8003e3819641342fe5725e65d6bea0fb\""
   },
   "groq": {
     "models": [

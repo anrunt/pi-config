@@ -1,5 +1,5 @@
 {
-  "lastChangelogVersion": "0.87.1",
+  "lastChangelogVersion": "1.1.0",
   "defaultProvider": "openai-codex",
   "defaultModel": "gpt-6-astra",
   "defaultThinkingLevel": "high",
@@ -15,7 +15,6 @@
     "npm:@plannotator/pi-extension",
     "npm:pi-skill-toggle",
     "npm:@calesennett/pi-codex-usage",
-    "npm:pi-mcp-extension",
     "npm:@diegopetrucci/pi-notify",
     "git:github.com/jillesme/pi-nvim-review"
   ],
@@ -28,6 +27,6 @@
   "tuiMode": "fullscreen",
   "fullscreenScrollbar": "always",
   "modelThinkingLevels": {
-    "openai-codex/gpt-6-astra": "xhigh"
+    "openai-codex/gpt-6-astra": "high"
   }
 }
